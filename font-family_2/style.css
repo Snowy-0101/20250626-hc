@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+body {
+    font-family: serif;
+}
+
+h2 {
+    font-family: "游ゴシック",sans-serif;
+    font-size: 30px;
+    color: #f7880a;
+    text-align: left;
+}
